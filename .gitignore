@@ -28,3 +28,6 @@ ehthumbs.db
 $RECYCLE.BIN/
 .vscode/
 jsconfig.json
+.vscode/settings.json
+**/jsconfig.json
+
